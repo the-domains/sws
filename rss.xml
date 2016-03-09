@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[sws]]></title>
+        <description><![CDATA[sws]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 09 Mar 2016 15:03:51 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>"Too much of over-dose of religion!</p>]]></description>
+            <link>undefinedtoo-much-of-over-dose-of-religion/index.html</link>
+            <guid isPermaLink="false">e05c9739-9f15-4522-92cc-39d2a190a64f</guid>
+            <pubDate>Wed, 09 Mar 2016 15:03:41 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
